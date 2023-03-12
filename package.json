@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarawrmas/employee-tracker.git"
+    "url": "git+https://github.com/tracij1286/employee-tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sarawrmas/employee-tracker/issues"
+    "url": "https://github.com/tracij1286/employee-tracker/issues"
   },
-  "homepage": "https://github.com/sarawrmas/employee-tracker#readme"
+  "homepage": "https://github.com/tracij1286/employee-tracker#readme"
 }
