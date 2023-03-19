@@ -37,8 +37,13 @@ its a pubic repo, contributors are welcome to add to this application.
 ## Tests
 N/A
 
-## Links
+## Github Link
 https://github.com/tracij1286/Employee-Tracker.git
+
+## Walk-Through
+https://drive.google.com/file/d/1UThR9ipUXGNISK6iFxWaC9r2Mf_ZBw7u/view?usp=share_link
+
+
 
 ## Questions
 If you have any questions about this repo, contact me directly at tracij50@gmail.com. You can find more of my work at [Tracij1286 on Github](https://github.com/Tracij1286 on Github).
