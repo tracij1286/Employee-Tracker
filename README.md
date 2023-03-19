@@ -28,7 +28,7 @@ lastly from the db folder use commands
 lastly run 'npm start' or  'node index.js' in order to start application
 
 ## Usage
-![alt text](/assets/images/screenshot.png)
+![alt text](/images/screenshot.png)
 
 
 ## Contributors
